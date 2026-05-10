@@ -17,7 +17,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,nodejs,express,go,postgres,mongodb,rabbitmq,redis" />
 </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaboDesu&show_icons=true&locale=en&layout=compact" alt="SaboDesu" /></p>
